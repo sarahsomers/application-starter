@@ -8,10 +8,7 @@
   "build": "npm install",
   "start": "node http_server.js"
   },
-"engines": {
-    "node": "14.21.3"
-  },
-  
+
   "repository": {
     "type": "git",
     "url": "https://github.com/sarahsomers/application-starter"
