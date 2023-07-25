@@ -8,8 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogsio/littletiers.git"
+    "url": "git+https://github.com/sarahsomers/application-starter.git"
   },
+  
   "author": "sarahsomers82@yahoo.com",
   "license": "MIT",
   "bugs": {
