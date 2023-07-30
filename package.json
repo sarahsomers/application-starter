@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogsio/littletiers.git"
+    "url": "git+https://github.com/sarahsomers/application-starter"
   },
   "author": "abel@mit.edu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kogsio/littletiers/issues"
   },
-  "homepage": "https://github.com/kogsio/littletiers#readme",
+  "homepage": "https://github.com/sarahsomers/application-starter#readme",
   "dependencies": {
     "@faker-js/faker": "^7.4.0",
     "cors": "^2.8.5",
